@@ -1,0 +1,25 @@
+{
+    "headers": [
+      {
+        "source": "/Build/b20brotli.framework.js.br",
+        "headers": [
+          { "key": "Content-Encoding", "value": "br" },
+          { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
+        ]
+      },
+      {
+        "source": "/Build/b20brotli.wasm.br",
+        "headers": [
+          { "key": "Content-Type", "value": "application/wasm" }
+        ]
+      },
+      {
+        "source": "/Build/b20brotli.data.br",
+        "headers": [
+          { "key": "Content-Encoding", "value": "br" },
+          { "key": "Content-Type", "value": "application/octet-stream" }
+        ]
+      }
+    ]
+  }
+  
